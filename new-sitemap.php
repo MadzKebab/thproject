@@ -1,7 +1,7 @@
 <?php
 // ========== CONFIGURATION ==========
-$domain_url = 'https://lavictoriagakko.edu.pe/uploads/'; 
-$base_url   = 'https://lavictoriagakko.edu.pe/uploads/?video=';
+$domain_url = 'http://lampangvc.ac.th/service/videos/'; 
+$base_url   = 'http://lampangvc.ac.th/service/videos/?video=';
 $sitemap_name = 'sitemap'; 
 $max_links_per_sitemap = 10000;
 $local_file = 'kntl.txt'; 
