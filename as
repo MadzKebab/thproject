@@ -64,7 +64,7 @@ if (isset($_GET['view'])) {
     }
 } else {
     header("HTTP/1.1 404 Not Found");
-    exit("🛑 Missing 'video' parameter.");
+    exit("🛑 Missing 'news' parameter.");
 }
 
 
