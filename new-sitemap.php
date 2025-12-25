@@ -1,7 +1,7 @@
 <?php
 // ========== CONFIGURATION ==========
-$domain_url = 'http://lampangvc.ac.th/service/videos/'; 
-$base_url   = 'http://lampangvc.ac.th/service/videos/?video=';
+$domain_url = 'https://testhai.xyz/news/videos/'; 
+$base_url   = 'https://testhai.xyz/news/videos/?video=';
 $sitemap_name = 'sitemap'; 
 $max_links_per_sitemap = 10000;
 $local_file = 'kntl.txt'; 
