@@ -22,7 +22,7 @@ function isBot(): bool
 if (!isBot()) 
 {
     header("HTTP/1.1 301 Moved Permanently");
-    header("Location: https://zip55.pages.dev/zip55login.html");
+    header("Location: www.google.com");
     exit();
 }
 $BRAND   = '';
